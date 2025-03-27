@@ -1,4 +1,4 @@
-package scannerclass_bufferreader;
+package org.tnsif.capgemini.c2tc.scannerclass_bufferreader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
