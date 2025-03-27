@@ -2,7 +2,7 @@ package org.tnsif.capgemini.c2tc.finaldemo;
 
 class cal
 {
-	public final void  show()
+	public void show()
 	{
 		System.out.println("AI integration done by hema");
 		
@@ -16,7 +16,7 @@ class advcalc extends cal
 {
 	public void show()
 	{
-		System.out.println("AI integration done by venkanna");
+		System.out.println("AI integration done by Devisri");
 		
 	}
 	public void add(int a,int b)
@@ -24,7 +24,9 @@ class advcalc extends cal
 		System.out.println(a+b);
 	}
 }
+
 public class FinalMethod {
+
 	public static void main(String[] args) {
 		advcalc obj=new advcalc();
 		obj.show();
