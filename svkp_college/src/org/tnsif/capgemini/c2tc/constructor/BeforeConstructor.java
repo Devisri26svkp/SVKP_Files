@@ -1,4 +1,4 @@
-package constructor;
+package org.tnsif.capgemini.c2tc.constructor;
 
 
 class Myclass
