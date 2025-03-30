@@ -1,4 +1,4 @@
-package basicsofjava;
+package org.tnsif.capgemini.c2tc.basicsofjava;
  class Demo1{
 	 String strvalue;
 	 int a[];
